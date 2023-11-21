@@ -32,7 +32,8 @@ $ nix-shell -p maven
 
 This is with the following resource registered:
 
-```package com.eddsteel.resources;
+```java
+package com.eddsteel.resources;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
